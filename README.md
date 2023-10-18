@@ -343,6 +343,20 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                   </a>
             </td>
             <td align="center">
+                  <a href="https://github.com/hvsesha">
+                    <img src="https://avatars.githubusercontent.com/u/65343617?v=4" width="100px;" alt="Hvsesha"/>
+                    <br />
+                    <sub><b>Harikrishnan Ganapathi</b></sub>
+                  </a>
+            </td>
+		<td align="center">
+                  <a href="https://github.com/hvsesha">
+                    <img src="https://avatars.githubusercontent.com/u/65343617?v=4 width="100px;" alt="Hvsesha"/>
+                    <br />
+                    <sub><b>Harikrishnan Ganapathi</b></sub>
+                  </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/priyanshu-11000/">
                     <img src="https://avatars.githubusercontent.com/u/97409725?v=4" width="100px;" alt="Priyanshu Kumar Singh"/>
                     <br />
